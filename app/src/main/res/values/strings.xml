@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Restaurant_Automation</string>
+
+    <string name="login_phoneNo">Phone No #</string>
+    <string name="login_pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forget_pass">Forget Password</string>
 </resources>
